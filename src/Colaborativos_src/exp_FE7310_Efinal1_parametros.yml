@@ -1,0 +1,35 @@
+experimento: FE7310_Efinal1
+exp_input: DR7210_Efinal1
+lag1: yes
+lag2: yes
+lag3: no
+Tendencias1:
+  run: yes
+  ventana: 6.0
+  tendencia: yes
+  minimo: no
+  maximo: no
+  promedio: no
+  ratioavg: no
+  ratiomax: no
+Tendencias2:
+  run: no
+  ventana: 6.0
+  tendencia: yes
+  minimo: no
+  maximo: no
+  promedio: no
+  ratioavg: no
+  ratiomax: no
+RandomForest:
+  run: yes
+  num.trees: 20.0
+  max.depth: 4.0
+  min.node.size: 1000.0
+  mtry: 40.0
+  semilla: 101103.0
+CanaritosAsesinos:
+  ratio: 0.1
+  desvios: 4.0
+  semilla: 101103.0
+home: ~/buckets/b1/

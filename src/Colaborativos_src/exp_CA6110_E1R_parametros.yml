@@ -1,0 +1,6 @@
+experimento: CA6110_E1R
+dataset: ./datasets/competencia_2023.csv.gz
+metodo: MachineLearning
+stat:
+  time_start: 20230510 004647
+  time_end: 20230510 004847

@@ -1,0 +1,4 @@
+experimento: CA7110_Efinal1
+dataset: ./datasets/competencia_2023.csv.gz
+metodo: MachineLearning
+home: ~/buckets/b1/

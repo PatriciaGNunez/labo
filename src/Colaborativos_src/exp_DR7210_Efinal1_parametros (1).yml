@@ -1,0 +1,5 @@
+experimento: DR7210_Efinal1
+exp_input: CA7110_Efinal1
+variables_intrames: yes
+metodo: rank_cero_fijo
+home: ~/buckets/b1/

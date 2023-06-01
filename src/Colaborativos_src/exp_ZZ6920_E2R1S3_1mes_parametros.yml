@@ -1,0 +1,19 @@
+experimento: ZZ6920_E2R1S3_1mes
+exp_input: HT6510_E2R1S3_1mes
+modelos_rank: 1.0
+semillas:
+- 101103.0
+- 102013.0
+- 103613.0
+- 104113.0
+- 105613.0
+kaggle:
+  envios_desde: 8000.0
+  envios_hasta: 13500.0
+  envios_salto: 500.0
+graficar:
+  envios_hasta: 20000.0
+  ventana_suavizado: 2001.0
+stat:
+  time_start: 20230520 222248
+  time_end: 20230520 232629

@@ -1,0 +1,13 @@
+experimento: ZZ7990_Efinal1
+exp_input: HT7510_Efinal1
+modelos_rank: 1.0
+semillerio: 20.0
+semilla_primos: 101103.0
+kaggle:
+  envios_desde: 8000
+  envios_hasta: 13500
+  envios_salto: 500
+graficar:
+  envios_hasta: 20000
+  ventana_suavizado: 2001
+home: ~/buckets/b1/
